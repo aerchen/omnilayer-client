@@ -15,5 +15,16 @@
   "dependencies": {
     "bitcoin-core": "^2.0.0",
     "lodash": "^4.17.10"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aerchen/omnilayer-client.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aerchen/omnilayer-client/issues"
+  },
+  "homepage": "https://github.com/aerchen/omnilayer-client#readme"
 }
