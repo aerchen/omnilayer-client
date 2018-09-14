@@ -8,7 +8,10 @@
   },
   "keywords": [
     "omnilayer",
-    "client"
+    "client",
+    "usdt",
+    "tether",
+    "transaction"
   ],
   "author": "Darren Chen",
   "license": "MIT",
