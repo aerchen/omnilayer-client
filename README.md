@@ -1,4 +1,4 @@
-# swaggerui2koa
+# omnilayer-client
 
 js client for omnilayer
 
