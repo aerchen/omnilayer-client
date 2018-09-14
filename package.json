@@ -1,6 +1,6 @@
 {
   "name": "omnilayer-client",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Omni Layer JSON-RPC client base on bitcoin-core",
   "main": "index.js",
   "scripts": {
